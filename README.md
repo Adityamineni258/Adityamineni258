@@ -31,8 +31,8 @@ Currently focused on personal projects to enhance my skills in full-stack develo
 
 ## Projects
 
--   **Karna: The AI Mental Health Friend:** Built using Gemini. This project aims to provide a supportive AI companion for mental well-being. [Link to Repository] *(If you have a public repo, add the link here)*
--   **Empowering Survivors:** A web application built using HTML, CSS, JavaScript, React, and Firebase. This project focuses on creating a platform for survivors. [Link to Repository] *(If you have a public repo, add the link here)*
+-   **Karna: The AI Mental Health Friend:** Built using Gemini. This project aims to provide a supportive AI companion for mental well-being. [https://github.com/Adityamineni258/karna] 
+-   **Empowering Survivors:** A web application built using HTML, CSS, JavaScript, React, and Firebase. This project focuses on creating a platform for survivors. [https://github.com/Adityamineni258/Empowering-Survivors] 
 
 ## Let's Connect!
 
